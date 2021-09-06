@@ -25,6 +25,7 @@ Epoch Accuracy Graph for Full Model
 ![full_model_epoch_accuracy](https://user-images.githubusercontent.com/24477155/132215879-105837f6-61e4-4111-a2f7-bed340c061ac.PNG)
 
 Epoch Loss Graph for Full Model
+
 ![full_model_epoch_loss](https://user-images.githubusercontent.com/24477155/132215966-a3d2b3d7-0c4c-4a27-9dc4-b0e9bb595a39.PNG)
 
 
